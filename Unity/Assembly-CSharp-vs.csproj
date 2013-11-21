@@ -46,10 +46,12 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\AnimationCreator.cs" />
+     <Compile Include="Assets\Scripts\Bird.cs" />
      <Compile Include="Assets\Scripts\Boulder.cs" />
      <Compile Include="Assets\Scripts\Boy.cs" />
+     <Compile Include="Assets\Scripts\Braid.cs" />
      <Compile Include="Assets\Scripts\SpriteAnimator.cs" />
-     <Compile Include="Assets\Scripts\WalkHorizontally.cs" />
      <None Include="Assets\Plugins\GoKit\easing\easeEquationsLicense.txt" />
   </ItemGroup>
   <ItemGroup>
